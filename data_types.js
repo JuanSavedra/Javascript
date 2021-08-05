@@ -65,3 +65,17 @@ ainda não existe. */
 
 //Exemplo:
 console.log(undefined === null);
+
+//Objects.
+
+/* É uma estrutura contendo propriedades e funcionalidades
+como quaquer objeto do dia a dia. */
+
+//Exemplo:
+console.log({
+    name: "Juan", //Propriedade.
+    idade: 36, //Propriedade.
+    andar: function() {
+        console.log("andar");
+    }
+})
