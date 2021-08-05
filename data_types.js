@@ -79,3 +79,19 @@ console.log({
         console.log("andar");
     }
 })
+
+//Array.
+
+/* É uma lista que atua como um agrupamento de dados, ele
+junta todos esses dados em apenas uma lista, o que facilita
+muito quando não se quer fazer diversas coisas diferentes
+para compor uma só lista, o array ele compõe tudo que você
+quer em uma lista armazenada nele mesmo. */
+
+//Exemplo:
+console.log([
+    "Ovos", 
+    "Arroz", 
+    "Leite", 
+    "Bolacha"
+]);
