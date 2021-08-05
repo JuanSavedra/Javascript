@@ -56,3 +56,12 @@ console.log("Verdadeiro", true);
 console.log("Falso", false);
 console.log("12 é Maior que 11?", 12 > 11);
 console.log("12 é Maior que 13?", 12 > 13);
+
+//Indefinido (undefined) e Nulo (null).
+
+/* Indefinido é algo que não existe, e nulo é algo que existe mas não contém
+nada dentro, por exemplo, tem diferença entre uma casa vazia e uma casa que 
+ainda não existe. */
+
+//Exemplo:
+console.log(undefined === null);
