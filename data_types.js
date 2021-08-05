@@ -47,4 +47,12 @@ console.log(12 == Infinity);
 console.log(Infinity == Infinity);
 console.log(Infinity);
 
+//Boolean.
 
+/* Informa somente dois valores: verdadeiro (true) ou falso (false). */
+
+//Exemplo:
+console.log("Verdadeiro", true);
+console.log("Falso", false);
+console.log("12 é Maior que 11?", 12 > 11);
+console.log("12 é Maior que 13?", 12 > 13);
