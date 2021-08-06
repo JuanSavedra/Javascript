@@ -77,21 +77,17 @@ predefinido, e podem ser alteradas depois. */
 var clima; 
 console.log(clima); //Resposta = Undefined.
 
-var str_clima = "";
-console.log(typeof str_clima); //Resposta = string.
+clima = "";
+console.log(typeof clima); //Resposta = string.
 
-var bool_clima = true;
-console.log(typeof bool_clima); //Resposta = boolean.
+clima = true;
+console.log(typeof clima); //Resposta = boolean.
 
-var int_clima = 0;
-console.log(typeof int_clima); //Resposta = number.
+clima = 0;
+console.log(typeof clima); //Resposta = number.
 
-//Alterando o typeof;
-
-var exemplo = true;
-console.log(typeof exemplo); //Resposta = boolean.
-var exemplo = "";
-console.log(typeof exemplo); //Resposta = string;
+/* Como você pode ver, eu alterei os valores de uma só variável,
+alterando assim, o typeof dela. */
 
 //Scope com var.
 

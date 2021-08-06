@@ -73,10 +73,10 @@ como quaquer objeto do dia a dia. */
 
 //Exemplo:
 console.log({
-    name: "Juan", //Propriedade.
+    nome: "Juan", //Propriedade.
     idade: 36, //Propriedade.
     andar: function() {
-        console.log("andar");
+        console.log("andar"); //Função.
     }
 })
 
