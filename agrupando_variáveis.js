@@ -18,8 +18,19 @@ feito em uma linha. */
 //Exemplo com Agrupamento:
 
 {
-    let nome = "Daniel"; nome_1 = "Pedro"; 
-    nome_2 = "Juan"; nome_3 = "Carlos";
+    let nome = "Daniel", nome_1 = "Pedro", 
+    nome_2 = "Juan", nome_3 = "Carlos";
     
     console.log("Nomes: ", nome, nome_1, nome_2, nome_3);
+}
+
+//Outro exemplo de Agrupamento:
+
+{
+    let nome, idade, verdadeiro;
+    nome = "Juan";
+    idade = 15;
+    verdadeiro = true;
+
+    console.log(nome, idade, verdadeiro);
 }
