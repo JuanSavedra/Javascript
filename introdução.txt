@@ -1,0 +1,24 @@
+Para começar, lembre-se que para ver tudo que foi feito em 
+JavaScript, você deve abrir o arquivo index.html no seu 
+navegador e utilizar da tecla F12 e ir em console.
+
+Caso queira mudar os arquivos linkados a página do google,
+vá em index.html e digite na aba do body:
+<script src="../nomeDoArquivo.js"></script>
+
+Ordem de Estudo:
+1 - Comentários.
+2 - Tipos de Dados.
+3 - Objetos.
+4 - Arrays.
+5 - Variáveis.
+6 - Agrupando Variáveis.
+7 - Concatenando Variáveis.
+8 - Funções.
+9 - Manipulando Dados. 
+10 - Expressões e Operadores. 
+11 - Condicionais.
+12 - Estrutura de Repetição.
+
+Feito por Juan Savedra.
+https://github.com/JuanSavedra

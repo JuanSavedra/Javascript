@@ -1,0 +1,30 @@
+Para começar recomendo uns bons atalhos caso 
+seja um programador iniciante e esteja no 
+visual studio code.
+
+Lista:
+- Ctrl + Shift + I: Identa seu código, deixa 
+ele mais organizado.
+- Ctrl + Shift + Setas: Seleciona partes do 
+seu código sem a necessidade do mouse.
+- Ctrl + A: Seleciona seu código por completo.
+- Ctrl + X: Deleta partes selecionadas.
+- Ctrl + D: Seleciona palavras iguais conforme
+aperta.
+- Ctrl + C: Copia uma parte selecionada.
+- Ctrl + V: Cola a parte que você copiou.
+- Ctrl + Z: Retrocede a ação que você fez.
+
+Temas do Visual Studio Code:
+- Abyss.
+- Dracula.
+- SynthWave '84.
+- Night Owl.
+- One Dark Pro.
+- Solar Escuro.
+
+Para você que curte temas claros (Nada recomendado).
+- Claro+.
+- Github Light.
+- Solar Claro.
+- Suave Claro.
