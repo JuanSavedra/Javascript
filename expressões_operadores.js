@@ -216,3 +216,80 @@ retornando um valor booleano. */
     console.log(`${dois} é diferente de ${dois}? ${dois !== dois}`);
     console.log(`${um} é diferente de "1"? ${um !== "1"}`);
 }
+
+//Operadores de Atribuição.
+
+/* Operadores de atribuição adicionam mais números que
+o variável++ por exemplo. */
+
+//Exemplo.
+
+{
+    let x;
+    console.log(x);
+
+    //Seguimento.
+     x = 1;
+     console.log(x); //1.
+    
+     //Seguimento de adição.
+
+     x += 2;
+     console.log(x); //3.
+
+     //Seguimento de subtração.
+
+     x -= 2;
+     console.log(x); //1.
+
+     //Seguimento de multiplicação.
+
+     x *= 2;
+     console.log(x); //2.
+
+     //Seguimento de divisão.
+
+     x /= 2;
+     console.log(x); //1.
+}
+
+//Operadores Lógicos.
+
+/* Operadores lógicos são atribuídos junto com operadores
+de condição que veremos mais pra frente.
+Mas seus exemplos são: 
+- AND (&&)
+- OR (||) 
+- NOT (!) */
+
+//Operador Condicional Ternário.
+
+/* Tem uma condição de si que dependendo do valor (true or 
+false) ele tem uma resposta. */
+
+//Exemplo.
+
+{
+    let comer = true;
+    let irComer = comer ? "Ir comer." : "Não ir comer";
+    //Se for verdadeiro: "Ir comer". Se for falso: "Não ir comer".
+    console.log(irComer);
+
+    comer = false;
+    irComer = comer ? "Ir comer." : "Não ir comer";
+    console.log(irComer);
+}
+
+//Ordem de Operadores mais Importantes (Maior Valor).
+
+/* Lista.
+- Grouping                   ()
+- Negação e Imcremento     ! -- ++
+- Multiplicação e Divisão    * /
+- Adição e Subtração        + -
+- Relacional              < <= > >=
+- Igualdade             == != === !==
+- Lógicos                  && ||
+- Condicional               ?:
+- Seguimento             = += -= *=              
+*/
